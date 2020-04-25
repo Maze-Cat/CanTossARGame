@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "5eff73e43f99e14e6ab35a87faa4dec4"
+build_time: [1587699709, 741560000]
+inputs:
+  "/Users/Langsam/Desktop/ECE 564/papertoss/CanTossAR/GameController.swift": [9223372036, 854775807]
+  "/Users/Langsam/Desktop/ECE 564/papertoss/CanTossAR/ViewController.swift": [9223372036, 854775807]
+  "/Users/Langsam/Desktop/ECE 564/papertoss/CanTossAR/PopUpViewController.swift": [9223372036, 854775807]
+  "/Users/Langsam/Desktop/ECE 564/papertoss/CanTossAR/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/Langsam/Desktop/ECE 564/papertoss/CanTossAR/CustomBox.swift": [9223372036, 854775807]
+  "/Users/Langsam/Desktop/ECE 564/papertoss/build/CanTossAR.build/Release-iphoneos/CanTossAR.build/DerivedSources/RCProjectGenerated/MovingBasket/MovingBasket.swift": [9223372036, 854775807]
+  "/Users/Langsam/Desktop/ECE 564/papertoss/build/CanTossAR.build/Release-iphoneos/CanTossAR.build/DerivedSources/RCProjectGenerated/Basket/Basket.swift": [9223372036, 854775807]
+  "/Users/Langsam/Desktop/ECE 564/papertoss/build/CanTossAR.build/Release-iphoneos/CanTossAR.build/DerivedSources/RCProjectGenerated/RotatingBasket/RotatingBasket.swift": [9223372036, 854775807]
+  "/Users/Langsam/Desktop/ECE 564/papertoss/build/CanTossAR.build/Release-iphoneos/CanTossAR.build/DerivedSources/RCProjectGenerated/Drink/Drink.swift": [9223372036, 854775807]
